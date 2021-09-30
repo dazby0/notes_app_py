@@ -1,3 +1,3 @@
-Simple Note App using Python and Flask
+Simple Note App using Python and Flask.
 
-Made with TechWithTim's tutorial
+Made with TechWithTim's tutorial.
